@@ -1,0 +1,16 @@
+//var book={tittle:"Harry potter",
+         //author:"jk rowling",
+         //realsedate:"june 6"}
+//console.log(book)
+//console.log(book.tittle)
+var food=["firfir","pizza","bread"]
+console.log(food)
+console.log(food[0])
+console.log(food[1])
+console.log(food[2])
+var food=["firfir","pizza","bread"]
+for (i=0; i<food.length;i++)
+console.log(food[i])
+var count=1
+while (count<=10)
+  console.log(count++)
