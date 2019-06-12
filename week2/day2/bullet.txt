@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<U1 style="list-style-type:circle">
+<li>cat</li>
+<li>dog</li>
+<li>rat</li>
+</U1>
+<body>

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+<input type="radio"name="gender"value="male"checked>
+<input type="radio"name="gender"value="female"checked>
+</form>
+<html>
+<body>

@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!--let me remember all the codes wriiten and note that it is begins with doctype-->
+<P> I like to code for front end related to graphics.</P>
+<html>
+<body>
